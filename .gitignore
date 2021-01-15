@@ -1,7 +1,7 @@
 *.mat
 .ipynb_checkpoints
-ImageOutput/
-MAToutput/
-database/image/
-database/mask/
-database/parsing/
+ImageOutput/*
+MAToutput/*
+database/image/*
+database/mask/*
+database/parsing/*
